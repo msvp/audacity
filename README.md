@@ -1,5 +1,7 @@
-[![Audacity](https://forum.audacityteam.org/styles/prosilver/theme/images/Audacity-logo_75px_trans_forum.png)](https://www.audacityteam.org) 
-=========================
+
+
+Un Fork avant qu'Audacity ne devienne complètement commercial...
+Cf. le contenu de cet article [(https://www.macg.co/logiciels/2021/07/apres-son-acquisition-audacity-sinteresse-aux-donnees-de-ses-utilisateurs-122579)]
 
 [**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
 
